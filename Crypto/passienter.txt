@@ -1,0 +1,20 @@
+Kari Sandersen, 12.12.1980, Kvinne, Frisk
+Eirik Kristoffersen, 05.03.1975, Mann, Kreft i lunge, under behandling
+Anna Pedersen, 21.06.1992, Kvinne, Astma, behandles med inhalator
+Jens Stoltenberg, 17.11.1964, Mann, Hjertesvikt, på medisin
+Lise Kristiansen, 09.08.1989, Kvinne, Migrener, sporadisk behandling
+Anders Berg, 23.04.1970, Mann, Diabetes type 2, insulinbehandling
+Eva Nilsen, 14.02.1983, Kvinne, Frisk
+Henrik Olsen, 03.01.1956, Mann, Artrose i hofte, vurderer operasjon
+Maria Solberg, 27.09.1968, Kvinne, Høyt blodtrykk, på blodtrykksmedisin
+Rune Wenneberg, 30.10.1980, Mann, Frisk
+Julie Hansen, 11.12.1973, Kvinne, Revmatoid artritt, på medisin
+Per Pedersen, 01.01.1950, Mann, Parkinsons sykdom, under behandling
+Maja Lund, 17.07.1995, Kvinne, Frisk
+Sven Eriksen, 23.05.1988, Mann, Kols, på pusteapparat
+Rani Tomter, 05.09.1982, Kvinne, Kreft i bryst, på behandling
+Karl Olsson, 12.02.1960, Mann, Frisk
+Hilde Karlsen, 22.10.1978, Kvinne, Sklerose, behandling pågår
+Pål Thomassen, 04.11.1971, Mann, Alzheimers, på pleiehjem
+Kari Våg, 18.06.1987, Kvinne, Depresjon, behandling med antidepressiva
+Nils Holm, 13.04.1965, Mann, Nyresvikt, på dialyse
