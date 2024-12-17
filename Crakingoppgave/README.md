@@ -1,0 +1,1 @@
+Dette prosjektet inneholder en cracking-oppgave som består av tre filer og en nettside. Målet med oppgaven er å benytte teknikker for å knekke et passord. Filer og nettsiden er satt opp for å simulere et scenario der brukeren må bryte kryptering, samt finne et passord for å få tilgang til informasjon.
