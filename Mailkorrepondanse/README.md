@@ -1,0 +1,1 @@
+Dette prosjektet simulerer en e-postutveksling mellom offeret Ola og en venn, hvor et virus blir overført som vedlegg, lastet ned og potensielt aktivert. Det illustrerer hvordan skadelig programvare kan spres gjennom e-postkorrespondanse og sosial manipulering. Innholdet er kun ment for demonstrasjon og analyseformål.
