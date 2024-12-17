@@ -1,0 +1,2 @@
+Det ble brukt mye tid på å finne ut av hvilken konfigurasjon vi skulle ha på klientene/de virtuelle maskinene som skulle bli benyttet under casen. Det endte opp med å bli en Windows 7 maskin som skulle være tilgjengelig for analyse av skadevare, der vi hadde fjernet noen applikasjoner for å ikke gjøre casen altfor lett.
+Klienten som skulle simulere Ola sin personlige datamaskin ble en Windows 10-maskin, som ble satt opp med en ISO-fil lastet ned fra Microsoft sin offisielle nettside.
